@@ -1,0 +1,22 @@
+.IconChamp {
+    border-radius: 50%;
+  }
+  
+.Champion {
+    display: inline-block;
+    top: 50px;
+    left: 20%;
+    max-width: 676px;
+    position: relative;
+  }
+
+.Hechizos {
+    display: inline-block;
+    top: 50px;
+    left: 50%;
+    max-width: 676px;
+    width: 136px;
+    height: 136px;
+    position: relative;
+  }
+
